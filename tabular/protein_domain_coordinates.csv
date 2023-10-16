@@ -1,0 +1,40 @@
+﻿prot,seg,start,end,col
+RhinoCA,OAS1N,1,158,RhinoCA
+RhinoCA,indel,159,173,Palec
+RhinoCA,OAS1C,174,357,RhinoCA
+RhinoCA,Cend,358,373,Palec
+P. alecto,OAS1N,1,158,Palec
+P. alecto,indel,159,173,Palec
+P. alecto,OAS1C,174,357,Palec
+P. alecto,Cend,358,373,Palec
+R. ferrumequinum,OAS1N,1,158,Rferr
+R. ferrumequinum,indel,169,173,Rferr
+R. ferrumequinum,OAS1C,174,358,Rferr
+R. ferr + P. alec insert,OAS1N,1,158,Rferr
+R. ferr + P. alec insert,indel,159,173,Palec
+R. ferr + P. alec insert,OAS1C,174,358,Rferr
+R. ferr + P. alec C-end,OAS1N,1,158,Rferr
+R. ferr + P. alec C-end,indel,169,173,Rferr
+R. ferr + P. alec C-end,OAS1C,174,357,Rferr
+R. ferr + P. alec C-end,Cend,358,373,Palec
+R. ferr + P. alec insert & C-end,OAS1N,1,158,Rferr
+R. ferr + P. alec insert & C-end,indel,159,173,Palec
+R. ferr + P. alec insert & C-end,OAS1C,174,358,Rferr
+R. ferr + P. alec insert & C-end,Cend,358,373,Palec
+RhinoCA 34E,OAS1N,1,158,RhinoCA
+RhinoCA 34E,site34,33,35,E
+RhinoCA 34E,indel,159,173,Palec
+RhinoCA 34E,OAS1C,174,357,RhinoCA
+RhinoCA 34E,Cend,358,373,Palec
+RhinoCA-T70 34N,OAS1N,1,158,RhinoCA
+RhinoCA-T70 34N,site34,33,35,N
+RhinoCA-T70 34N,indel,159,173,Palec
+RhinoCA-T70 34N,OAS1C,174,357,RhinoCA
+RhinoCA-T70 34N,Cend,358,373,Palec
+RhinoCA no loop,OAS1N,1,158,RhinoCA
+RhinoCA no loop,OAS1C,174,357,RhinoCA
+RhinoCA no loop,Cend,358,373,Palec
+RhinoCA R. ferr loop,OAS1N,1,158,RhinoCA
+RhinoCA R. ferr loop,indel,169,173,Rferr
+RhinoCA R. ferr loop,OAS1C,174,357,RhinoCA
+RhinoCA R. ferr loop,Cend,358,373,Palec

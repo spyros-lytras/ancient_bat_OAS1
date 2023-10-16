@@ -1,5 +1,5 @@
 This repository contains online supplementary materials for the paper: 
-[Resurrecting an ancient horseshoe bat defence against SARS-related coronaviruses]().
+Resurrection of 2′-5′-oligoadenylate synthetase 1 (OAS1) from the ancestor of modern horseshoe bats blocks SARS-CoV-2 replication (*in print, PLOS Biology*).
 
 ### Sequences & Alignments
 
@@ -14,6 +14,7 @@ for cell line expression](sequences_alignments/cDNA_constructs.fas)
 
 - [Coding sequence alignment used for the selection analysis](sequences_alignments/al_bat_OAS1_cds_selection.fas)
 
+- [Full protein sequence alignment of all Chiroptera OAS1 proteins](sequences_alignments/al_OAS1_bat_fn_cur1.fas)
 
 
 ### Phylogenetic trees
@@ -37,4 +38,6 @@ for cell line expression](sequences_alignments/cDNA_constructs.fas)
 
 - [Sequence metadata](tabular/metadata.csv)
 
-- [Selection analysis results](tabular/Table_S1.csv)
+- [Selection analysis and per site entropy results](tabular/Table_S1.csv)
+
+- [Protein domain coordinates](tabular/protein_domain_coordinates.csv)
