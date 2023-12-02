@@ -1,5 +1,6 @@
 This repository contains online supplementary materials for the paper: 
-Resurrection of 2′-5′-oligoadenylate synthetase 1 (OAS1) from the ancestor of modern horseshoe bats blocks SARS-CoV-2 replication (*in print, PLOS Biology*).
+[Resurrection of 2′-5′-oligoadenylate synthetase 1 (OAS1) from the ancestor of modern horseshoe bats blocks SARS-CoV-2 replication](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002398), 
+published in *PLOS Biology* (Lytras *et al.*, 2023).
 
 
 ### Sequences & Alignments
